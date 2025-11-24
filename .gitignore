@@ -17,3 +17,7 @@ venv/
 
 # fichiers de configuration
 config_model.py
+
+#key kaggle
+.kaggle/
+kaggle.json
