@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
+*.kaggle/
 # Environnements virtuels
 venv/
 .venv/
@@ -18,6 +18,6 @@ venv/
 # fichiers de configuration
 config_model.py
 
-#key kaggle
-.kaggle/
+# ignore my file containing kaggle API key
+.kaggle/kaggle.json
 kaggle.json
