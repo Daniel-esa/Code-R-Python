@@ -14,3 +14,6 @@ venv/
 # Fichiers cachés ou sensibles
 .env
 *.log
+
+# fichiers de configuration
+config_model.py
