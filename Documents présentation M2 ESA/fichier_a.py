@@ -1,0 +1,1 @@
+print("fichier A en cours d'édition")
